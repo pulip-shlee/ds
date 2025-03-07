@@ -93,7 +93,7 @@
     "auto": "^9.50.1",
     "babel-eslint": "^10.1.0",
     "babel-loader": "^8.1.0",
-    "chromatic": "^5.0.0",
+    "chromatic": "^11.27.0",
     "cross-env": "^7.0.2",
     "dotenv-cli": "^3.1.0",
     "eslint": "^7.1.0",
