@@ -2,6 +2,7 @@ import React from 'react';
 import { AvatarList } from './AvatarList';
 import { Avatar } from './Avatar';
 
+
 export const users = [
   {
     id: '1',
